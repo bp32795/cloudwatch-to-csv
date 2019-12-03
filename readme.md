@@ -12,7 +12,7 @@ You will need python 3.6 for this to run. This may run on other versions of pyth
 
 Run `pip install -r requirements.txt` to install all necessary python libraries.
 
-##Configure and Run
+## Configure and Run
 
 1. Edit `config.py` with the date range and period you want data for. Edit `queries.py` with the data you want to scrape. Examples are currently in both files.
 
